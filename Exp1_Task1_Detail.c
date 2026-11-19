@@ -3,11 +3,11 @@
 int main()
 {
     // Variables storing the details
-    char name[] = "Riya Sharma";
-    int age = 16;
-    char student_class[] = "11th";
-    char division = 'A';
-    char uin[] = "UIN12345678";
+    char name[] = "Sukhveen Kandhari";
+    int age = 18;
+    char student_class[] = "First Year";
+    char division = 'C';
+    char uin[] = "UIN261M022";
 
     // Printing the formatted output
     printf("==============================\n");
